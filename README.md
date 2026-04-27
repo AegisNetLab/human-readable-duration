@@ -93,12 +93,6 @@ npm install
 node solution.js
 ```
 
-## Run Tests
-
-```bash
-npm test
-```
-
 ## Codewars Kata
 
 Kata: Human Readable Duration Format  
