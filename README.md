@@ -82,7 +82,7 @@ human-readable-duration/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/human-readable-duration.git
+git clone https://github.com/AegisNetLab/human-readable-duration.git
 cd human-readable-duration
 npm install
 ```
