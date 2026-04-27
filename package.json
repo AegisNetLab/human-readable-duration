@@ -1,0 +1,23 @@
+{
+  "name": "human-readable-duration",
+  "version": "1.0.0",
+  "description": "JavaScript solution for the Codewars Human Readable Duration Format kata.",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "codewars",
+    "kata",
+    "javascript",
+    "duration",
+    "formatting",
+    "jest"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
