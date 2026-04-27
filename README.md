@@ -90,7 +90,7 @@ npm install
 ## Run Examples
 
 ```bash
-npm start
+node solution.js
 ```
 
 ## Run Tests
