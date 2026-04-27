@@ -96,7 +96,7 @@ node solution.js
 ## Run Tests
 
 ```bash
-npm solution.test
+npm solution.test.js
 ```
 
 ## Codewars Kata
